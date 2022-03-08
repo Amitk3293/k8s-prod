@@ -1,4 +1,8 @@
-#!/usr/bin/env bash
+#!/bin/bash
+
+
+### Run the script with the vul name after to search for specific vul
+### For example ./script.sh CVE-2021-44228
 RED='\033[0;31m'
 NC='\033[0m'
 
